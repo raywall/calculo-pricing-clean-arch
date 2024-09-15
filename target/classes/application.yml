@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgreesql://${RDS_HOST}:${RDS_PORT}/${RDS_DB}
+    username: ${RDS_USERNAME}
+    password: ${RDS_PASSWORD}
+  ecs:
+    cluster: my-cluster
+    service: my-microservice
