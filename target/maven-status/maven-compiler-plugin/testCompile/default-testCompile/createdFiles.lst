@@ -1,0 +1,10 @@
+com/example/microservice/domain/redis/ConvenioTest.class
+com/example/microservice/domain/redis/TaxaFundingTest.class
+com/example/microservice/infrastructure/redis/RedisConvenioRepositoryTest.class
+com/example/microservice/AppTest.class
+com/example/microservice/domain/request/SolicitacaoCalculoRequestTest.class
+com/example/microservice/infrastructure/redis/RedisTaxaFundingRepositoryTest.class
+com/example/microservice/domain/dynamodb/PrecoCalculadoTest.class
+com/example/microservice/infrastructure/redis/RedisLimiteOperacionalRepositoryTest.class
+com/example/microservice/infrastructure/dynamodb/DynamoDbRepositoryTest.class
+com/example/microservice/domain/redis/LimiteOperacionalTest.class

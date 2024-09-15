@@ -6,3 +6,6 @@ spring:
   ecs:
     cluster: my-cluster
     service: my-microservice
+  redis:
+    host: localhost
+    port: 6379

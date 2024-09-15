@@ -1,14 +1,25 @@
 package com.example.microservice.domain.redis;
 
 import java.math.BigDecimal;
-import lombok.Builder;
-import lombok.Data;
 
-@Data
-@Builder
 public class TaxaFunding 
 {
-    
     private String taxaFundingId;
     private BigDecimal taxa;
+
+    public void setTaxaFundingId(String taxaFundingId) {
+        this.taxaFundingId = taxaFundingId;
+    }
+
+    public String getTaxaFundingId() {
+        return taxaFundingId;
+    }
+
+    public void setTaxa(BigDecimal taxa) {
+        this.taxa = taxa;
+    }
+
+    public BigDecimal getTaxa() {
+        return taxa;
+    }
 }

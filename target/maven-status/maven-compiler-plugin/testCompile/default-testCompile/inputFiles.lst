@@ -1,0 +1,10 @@
+/Users/macmini/Documents/workspace/java/acl/src/test/java/com/example/microservice/AppTest.java
+/Users/macmini/Documents/workspace/java/acl/src/test/java/com/example/microservice/domain/dynamodb/PrecoCalculadoTest.java
+/Users/macmini/Documents/workspace/java/acl/src/test/java/com/example/microservice/domain/redis/ConvenioTest.java
+/Users/macmini/Documents/workspace/java/acl/src/test/java/com/example/microservice/domain/redis/LimiteOperacionalTest.java
+/Users/macmini/Documents/workspace/java/acl/src/test/java/com/example/microservice/domain/redis/TaxaFundingTest.java
+/Users/macmini/Documents/workspace/java/acl/src/test/java/com/example/microservice/domain/request/SolicitacaoCalculoRequestTest.java
+/Users/macmini/Documents/workspace/java/acl/src/test/java/com/example/microservice/infrastructure/dynamodb/DynamoDbRepositoryTest.java
+/Users/macmini/Documents/workspace/java/acl/src/test/java/com/example/microservice/infrastructure/redis/RedisConvenioRepositoryTest.java
+/Users/macmini/Documents/workspace/java/acl/src/test/java/com/example/microservice/infrastructure/redis/RedisLimiteOperacionalRepositoryTest.java
+/Users/macmini/Documents/workspace/java/acl/src/test/java/com/example/microservice/infrastructure/redis/RedisTaxaFundingRepositoryTest.java
